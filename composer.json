@@ -11,7 +11,7 @@
 		"source": "https://github.com/bcit-ci/CodeIgniter"
 	},
 	"config": {
-		"vendor-dir": "application/libraries"
+		"vendor-dir": "application/vendor"
 	},
 	"require": {
 		"php": ">=5.2.4",
